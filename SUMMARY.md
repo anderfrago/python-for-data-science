@@ -1,0 +1,40 @@
+# Table of contents
+
+## Python
+
+* [Python for Data Science](README.md)
+  * [01 Getting Started](python/python-for-data-science/01-getting-started.md)
+  * [02 Basic Data Types](python/python-for-data-science/02-basic-data-types.md)
+  * [03 Control Flow in Python](python/python-for-data-science/03-control-flow-in-python.md)
+  * [04 Defining Functions in Python](python/python-for-data-science/04-defining-functions-in-python.md)
+  * [05 Code Reuse: Scripts and Modules](python/python-for-data-science/05-code-reuse-scripts-and-modules.md)
+  * [06 Input and Output in Python](python/python-for-data-science/06-input-and-output-in-python.md)
+  * [07 Python Standard Library Overview](python/python-for-data-science/07-python-standard-library-overview.md)
+  * [08 Other tools](python/python-for-data-science/08-other-tools.md)
+  * [09 Handling Exceptions in Python](python/python-for-data-science/09-handling-exceptions-in-python.md)
+  * [10 Object-Oriented Programming (OOP) in Python](python/python-for-data-science/10-object-oriented-programming-oop-in-python.md)
+* [Numpy: Creating and Manipulating data](python/numpy-creating-and-manipulating-data/README.md)
+  * [The Numpy Array Object](python/numpy-creating-and-manipulating-data/the-numpy-array-object/README.md)
+    * [01 Understanding NumPy and Its Arrays](python/numpy-creating-and-manipulating-data/the-numpy-array-object/01-understanding-numpy-and-its-arrays.md)
+    * [03 Understanding Basic Data Types in NumPy](python/numpy-creating-and-manipulating-data/the-numpy-array-object/03-understanding-basic-data-types-in-numpy.md)
+    * [04 Basic Data Visualization](python/numpy-creating-and-manipulating-data/the-numpy-array-object/04-basic-data-visualization.md)
+    * [05 Accessing and Slicing Arrays](python/numpy-creating-and-manipulating-data/the-numpy-array-object/05-accessing-and-slicing-arrays.md)
+    * [06 Copies and views](python/numpy-creating-and-manipulating-data/the-numpy-array-object/06-copies-and-views.md)
+    * [07 fantasy indexing](python/numpy-creating-and-manipulating-data/the-numpy-array-object/07-fantasy-indexing.md)
+  * [Numerical operations in array](python/numpy-creating-and-manipulating-data/numerical-operations-in-array/README.md)
+    * [08 Element-wise Operations in NumPy](python/numpy-creating-and-manipulating-data/numerical-operations-in-array/08-element-wise-operations-in-numpy.md)
+    * [09 numerical operations in matrix](python/numpy-creating-and-manipulating-data/numerical-operations-in-array/09-numerical-operations-in-matrix.md)
+  * [Advanced Matrix Operations](python/numpy-creating-and-manipulating-data/advanced-matrix-operations/README.md)
+    * [10 advance matrix operations](python/numpy-creating-and-manipulating-data/advanced-matrix-operations/10-advance-matrix-operations.md)
+    * [11 advanced operations](python/numpy-creating-and-manipulating-data/advanced-matrix-operations/11-advanced-operations.md)
+
+***
+
+* [Matplotlib drawing graphs](matplotlib-drawing-graphs/README.md)
+  * [Plotting](matplotlib-drawing-graphs/plotting.md)
+* [Statistics in python](statistics-in-python/README.md)
+  * [01 data representation and iteration](statistics-in-python/01-data-representation-and-iteration.md)
+  * [02 hypothesis testing](statistics-in-python/02-hypothesis-testing.md)
+  * [03 linear models multiple factors and analysis of variance](statistics-in-python/03-linear-models-multiple-factors-and-analysis-of-variance.md)
+  * [04 multiple regression](statistics-in-python/04-multiple-regression.md)
+  * [05 testing for iterations](statistics-in-python/05-testing-for-iterations.md)
